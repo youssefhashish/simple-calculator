@@ -1,0 +1,17 @@
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\bin\Debug\net6.0-windows\WinFormsApp1 calculator.exe
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\bin\Debug\net6.0-windows\WinFormsApp1 calculator.deps.json
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\bin\Debug\net6.0-windows\WinFormsApp1 calculator.runtimeconfig.json
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\bin\Debug\net6.0-windows\WinFormsApp1 calculator.dll
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\bin\Debug\net6.0-windows\WinFormsApp1 calculator.pdb
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.csproj.AssemblyReference.cache
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1_calculator.Form1.resources
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.csproj.GenerateResource.cache
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.AssemblyInfoInputs.cache
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.AssemblyInfo.cs
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.csproj.CoreCompileInputs.cache
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.dll
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\refint\WinFormsApp1 calculator.dll
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.pdb
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\WinFormsApp1 calculator.genruntimeconfig.cache
+C:\Users\wwwww\source\repos\WinFormsApp1 calculator\WinFormsApp1 calculator\obj\Debug\net6.0-windows\ref\WinFormsApp1 calculator.dll
